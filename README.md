@@ -11,4 +11,6 @@ This is an alt. All of my least interesting repositories are in my main
 
 # Have a wonderful day! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <a href="github.com/ruinaigelreogo/"><img src="github-user-contribution.svg"></a>

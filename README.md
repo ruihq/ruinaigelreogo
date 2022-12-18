@@ -11,6 +11,7 @@ This is an alt. All of my least interesting repositories are in my main
 
 ## Have a wonderful day! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-![Snake animation](https://github.com/ruinaigelreogo/ruinaigelreogo/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/kawata0210"><img src="contributions.svg"></a>
+
 
 

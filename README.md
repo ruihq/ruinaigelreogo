@@ -5,4 +5,10 @@
 
 More info about me in this link!
 
-https://ruinaigelreogo.github.io/ruinaigelreogo
+This is an alt. All of my least interesting repositories are in my main
+
+<a href="https://github.com/kawata0210">Main ACC!</a>
+
+# Have a wonderful day! ૮ ˶ᵔ ᵕ ᵔ˶ ა
+
+<a href="github.com/ruinaigelreogo/"><img src="github-user-contribution.svg"></a>

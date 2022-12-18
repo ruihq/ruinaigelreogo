@@ -11,7 +11,7 @@ This is an alt. All of my least interesting repositories are in my main
 
 ## Have a wonderful day! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-<a href="https://github.com/kawata0210"><img src="contributions.svg"></a>
+<a href="https://github.com/kawata0210"><img src="github-user-contributions.svg"></a>
 
 
 

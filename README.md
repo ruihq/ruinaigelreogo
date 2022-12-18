@@ -11,6 +11,6 @@ This is an alt. All of my least interesting repositories are in my main
 
 ## Have a wonderful day! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/ruinaigelreogo/ruinaigelreogo/blob/output/github-contribution-grid-snake.svg)
 
 

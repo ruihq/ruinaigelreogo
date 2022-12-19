@@ -5,11 +5,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruinaigelreogo&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruinaigelreogo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruinaigelreogo&layout=compact)](https://github.com/ruinaigelreogo)
 
 This is an alt. All of my least interesting repositories are in my main
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruinaigelreogo&repo=whatismyip)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruinaigelreogo&repo=whatismyip)](https://github.com/ruinaigelreogo/whatismyip)
 
 <a href="https://github.com/kawata0210">Main ACC!</a>
 

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on JavaScript
 
-More info about me in this link!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruinaigelreogo&show_icons=true&theme=transparent)
 
 This is an alt. All of my least interesting repositories are in my main
 

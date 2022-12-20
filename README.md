@@ -13,6 +13,8 @@ This is an alt. All of my least interesting repositories are in my main
 
 <a href="https://github.com/kawata0210">Main ACC!</a>
 
+![image](https://user-images.githubusercontent.com/120704613/208613052-af67d4ec-9b80-4fce-a9fb-12b3595f9a3f.png)
+
 ## Have a wonderful day! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 <a href="https://github.com/kawata0210"><img src="github-user-contribution.svg"></a>
